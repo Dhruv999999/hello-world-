@@ -1,2 +1,5 @@
-# hello-world-
-this hello world program is written in c language 
+#include<stdio.h>
+void main()
+{
+printf("hello world");
+}
